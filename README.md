@@ -1,4 +1,4 @@
-# AiceFuTools
+# PanicBuying
 京东、淘宝、苏宁抢购助手
 
 有需要的话请查看功能说明或点击标题旁链接
